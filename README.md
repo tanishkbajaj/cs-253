@@ -1,2 +1,1 @@
-# cs-253
-assignments
+New README
